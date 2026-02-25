@@ -8,7 +8,7 @@
     position: fixed;
     color: aqua;
     top: 70px;
-    left: -0%;
+    left: -100%;
 
     background-color: #333;
     padding: 0 2.5rem;
@@ -22,6 +22,5 @@
     margin: 1rem 0;
     padding: 0.7rem 1rem;
     align-items: center;
-    transform: translateY(-5px);
   }
 }
